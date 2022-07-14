@@ -1,6 +1,6 @@
 {
-    "short_name": "PWAサイト",
-    "name": "サンプルのPWAサイト",
+    "short_name": "まーくんの趣味",
+    "name": "まーくんの趣味のPWAサイト",
     "start_url": "https://pwa.glitch.me/",
     "display": "standalone"
 }
